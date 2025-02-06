@@ -1,0 +1,266 @@
+{
+    "version": "1.0",
+    "data": [
+      {
+        "title": "CV Test Data: YUDI PRATAMA PUTRA",
+        "paragraphs": [
+          {
+            "context": "YUDI PRATAMA PUTRA\nBekasi, West Java, Indonesia | +6289501471325 | yudi19maret2003@gmail.com | https://www.linkedin.com/in/yudipratamaptr | https://yudipratamaptr.netlify.app/\nA Mechatronics and Artificial Intelligence student at Universitas Pendidikan Indonesia with GPA 3.79/4.00, specialized in Machine Learning, Deep Learning, Computer Vision, and other subjects. He has work experience as Teaching Assistant for Advanced Mathematics at UPI Purwakarta (Dec 2024) and Community Service Assistant for Smart Door System Implementation at UPI Purwakarta (Nov 2023 - Juli 2024). His project experience includes Postura, Melanoma Detection, Fire Alarm with Opencv, Kard AI, Maize Pest Detection, Emotion Classification, and Gesture-Controlled Robot. He also has organizational experience at HIMATRONIKA-AI and volunteered as Head of Logistic Division at METASTRO. Certifications include Skill Academy – Mastering AI Bootcamp Batch 4 and ID Camp x Dicoding – Machine Learning Developer. His skills include HTML, CSS, Javascript, Java, Python, OpenCV, Tensorflow, and others.",
+            "qas": [
+              {
+                "id": "test_q1",
+                "question": "Siapa nama pemilik CV ini?",
+                "answers": [
+                  {
+                    "text": "YUDI PRATAMA PUTRA",
+                    "answer_start": 0
+                  }
+                ]
+              },
+              {
+                "id": "test_q2",
+                "question": "Di mana lokasi Yudi?",
+                "answers": [
+                  {
+                    "text": "Bekasi, West Java, Indonesia",
+                    "answer_start": 19
+                  }
+                ]
+              },
+              {
+                "id": "test_q3",
+                "question": "Apa nomor telepon yang tertera?",
+                "answers": [
+                  {
+                    "text": "+6289501471325",
+                    "answer_start": 50
+                  }
+                ]
+              },
+              {
+                "id": "test_q4",
+                "question": "Email apa yang dapat dihubungi?",
+                "answers": [
+                  {
+                    "text": "yudi19maret2003@gmail.com",
+                    "answer_start": 67
+                  }
+                ]
+              },
+              {
+                "id": "test_q5",
+                "question": "Berikan URL LinkedIn Yudi.",
+                "answers": [
+                  {
+                    "text": "https://www.linkedin.com/in/yudipratamaptr",
+                    "answer_start": 97
+                  }
+                ]
+              },
+              {
+                "id": "test_q6",
+                "question": "Sebutkan URL portofolio online Yudi.",
+                "answers": [
+                  {
+                    "text": "https://yudipratamaptr.netlify.app/",
+                    "answer_start": 139
+                  }
+                ]
+              },
+              {
+                "id": "test_q7",
+                "question": "Di universitas mana Yudi menempuh pendidikan?",
+                "answers": [
+                  {
+                    "text": "Universitas Pendidikan Indonesia",
+                    "answer_start": 180
+                  }
+                ]
+              },
+              {
+                "id": "test_q8",
+                "question": "Berapa GPA yang dicapai Yudi?",
+                "answers": [
+                  {
+                    "text": "3.79/4.00",
+                    "answer_start": 250
+                  }
+                ]
+              },
+              {
+                "id": "test_q9",
+                "question": "Apa program studi yang diambil oleh Yudi?",
+                "answers": [
+                  {
+                    "text": "Mechatronics and Artificial Intelligence",
+                    "answer_start": 120
+                  }
+                ]
+              },
+              {
+                "id": "test_q10",
+                "question": "Sebutkan satu mata kuliah yang relevan dengan AI.",
+                "answers": [
+                  {
+                    "text": "Machine Learning",
+                    "answer_start": 170
+                  }
+                ]
+              },
+              {
+                "id": "test_q11",
+                "question": "Apa peran Yudi sebagai Teaching Assistant?",
+                "answers": [
+                  {
+                    "text": "Teaching Assistant for Advanced Mathematics",
+                    "answer_start": 220
+                  }
+                ]
+              },
+              {
+                "id": "test_q12",
+                "question": "Kapan Yudi bekerja sebagai Teaching Assistant?",
+                "answers": [
+                  {
+                    "text": "(Dec 2024)",
+                    "answer_start": 270
+                  }
+                ]
+              },
+              {
+                "id": "test_q13",
+                "question": "Apa peran Yudi sebagai Community Service Assistant?",
+                "answers": [
+                  {
+                    "text": "Community Service Assistant for Smart Door System Implementation",
+                    "answer_start": 320
+                  }
+                ]
+              },
+              {
+                "id": "test_q14",
+                "question": "Kapan Yudi bekerja sebagai Community Service Assistant?",
+                "answers": [
+                  {
+                    "text": "(Nov 2023 - Juli 2024)",
+                    "answer_start": 380
+                  }
+                ]
+              },
+              {
+                "id": "test_q15",
+                "question": "Sebutkan nama proyek pertama yang disebutkan dalam pengalaman proyek.",
+                "answers": [
+                  {
+                    "text": "Postura",
+                    "answer_start": 440
+                  }
+                ]
+              },
+              {
+                "id": "test_q16",
+                "question": "Sebutkan nama proyek pendeteksi melanoma.",
+                "answers": [
+                  {
+                    "text": "Melanoma Detection",
+                    "answer_start": 450
+                  }
+                ]
+              },
+              {
+                "id": "test_q17",
+                "question": "Apa nama proyek yang menggunakan teknologi OpenCV untuk deteksi kebakaran?",
+                "answers": [
+                  {
+                    "text": "Fire Alarm with Opencv",
+                    "answer_start": 460
+                  }
+                ]
+              },
+              {
+                "id": "test_q18",
+                "question": "Sebutkan proyek yang menggunakan Random Forest untuk deteksi risiko.",
+                "answers": [
+                  {
+                    "text": "Kard AI",
+                    "answer_start": 470
+                  }
+                ]
+              },
+              {
+                "id": "test_q19",
+                "question": "Sebutkan proyek yang berkaitan dengan pertanian.",
+                "answers": [
+                  {
+                    "text": "Maize Pest Detection",
+                    "answer_start": 480
+                  }
+                ]
+              },
+              {
+                "id": "test_q20",
+                "question": "Apa proyek yang berhubungan dengan analisis emosi?",
+                "answers": [
+                  {
+                    "text": "Emotion Classification",
+                    "answer_start": 490
+                  }
+                ]
+              },
+              {
+                "id": "test_q21",
+                "question": "Sebutkan proyek robotik yang dikerjakan Yudi.",
+                "answers": [
+                  {
+                    "text": "Gesture-Controlled Robot",
+                    "answer_start": 500
+                  }
+                ]
+              },
+              {
+                "id": "test_q22",
+                "question": "Di organisasi mana Yudi memiliki pengalaman?",
+                "answers": [
+                  {
+                    "text": "HIMATRONIKA-AI",
+                    "answer_start": 520
+                  }
+                ]
+              },
+              {
+                "id": "test_q23",
+                "question": "Apa peran Yudi sebagai volunteer?",
+                "answers": [
+                  {
+                    "text": "Head of Logistic Division at METASTRO",
+                    "answer_start": 540
+                  }
+                ]
+              },
+              {
+                "id": "test_q24",
+                "question": "Sebutkan sertifikasi yang diperoleh dari Skill Academy.",
+                "answers": [
+                  {
+                    "text": "Skill Academy – Mastering AI Bootcamp Batch 4",
+                    "answer_start": 560
+                  }
+                ]
+              },
+              {
+                "id": "test_q25",
+                "question": "Apa credential sertifikasi dari ID Camp x Dicoding?",
+                "answers": [
+                  {
+                    "text": "ID Camp x Dicoding – Machine Learning Developer",
+                    "answer_start": 600
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

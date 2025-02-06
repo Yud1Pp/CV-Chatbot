@@ -1,0 +1,1066 @@
+{
+    "version": "1.0",
+    "data": [
+      {
+        "title": "CV Section: Personal Information & Summary",
+        "paragraphs": [
+          {
+            "context": "YUDI PRATAMA PUTRA\nBekasi, West Java, Indonesia | +6289501471325 | yudi19maret2003@gmail.com | https://www.linkedin.com/in/yudipratamaptr | https://yudipratamaptr.netlify.app/\nA Mechatronics and Artificial Intelligence student with a strong foundation in machine learning algorithms, data analysis, and deep learning frameworks, combined with extensive hands-on experience in AI-related projects. Adaptability and eagerness to learn new technologies drive continuous growth, with a commitment to delivering significant contributions as an AI Engineer or Data Scientist.",
+            "qas": [
+              {
+                "id": "S1_q1",
+                "question": "Siapa nama pemilik CV ini?",
+                "answers": [
+                  {
+                    "text": "YUDI PRATAMA PUTRA",
+                    "answer_start": 0
+                  }
+                ]
+              },
+              {
+                "id": "S1_q2",
+                "question": "Di mana lokasi Yudi?",
+                "answers": [
+                  {
+                    "text": "Bekasi, West Java, Indonesia",
+                    "answer_start": 20
+                  }
+                ]
+              },
+              {
+                "id": "S1_q3",
+                "question": "Apa nomor telepon yang tertera pada CV?",
+                "answers": [
+                  {
+                    "text": "+6289501471325",
+                    "answer_start": 51
+                  }
+                ]
+              },
+              {
+                "id": "S1_q4",
+                "question": "Email apa yang dapat dihubungi?",
+                "answers": [
+                  {
+                    "text": "yudi19maret2003@gmail.com",
+                    "answer_start": 68
+                  }
+                ]
+              },
+              {
+                "id": "S1_q5",
+                "question": "Berikan URL LinkedIn Yudi!",
+                "answers": [
+                  {
+                    "text": "https://www.linkedin.com/in/yudipratamaptr",
+                    "answer_start": 105
+                  }
+                ]
+              },
+              {
+                "id": "S1_q6",
+                "question": "Dimana portofolio online Yudi dapat diakses?",
+                "answers": [
+                  {
+                    "text": "https://yudipratamaptr.netlify.app/",
+                    "answer_start": 150
+                  }
+                ]
+              },
+              {
+                "id": "S1_q7",
+                "question": "Apa bidang studi yang diambil Yudi menurut summary?",
+                "answers": [
+                  {
+                    "text": "Mechatronics and Artificial Intelligence",
+                    "answer_start": 170
+                  }
+                ]
+              },
+              {
+                "id": "S1_q8",
+                "question": "Sebutkan fondasi keahlian yang dimiliki Yudi!",
+                "answers": [
+                  {
+                    "text": "machine learning algorithms, data analysis, and deep learning frameworks",
+                    "answer_start": 210
+                  }
+                ]
+              },
+              {
+                "id": "S1_q9",
+                "question": "Apa pengalaman praktis yang disebutkan dalam summary?",
+                "answers": [
+                  {
+                    "text": "extensive hands-on experience in AI-related projects",
+                    "answer_start": 290
+                  }
+                ]
+              },
+              {
+                "id": "S1_q10",
+                "question": "Apa tujuan karir Yudi menurut pernyataan di atas?",
+                "answers": [
+                  {
+                    "text": "delivering significant contributions as an AI Engineer or Data Scientist",
+                    "answer_start": 360
+                  }
+                ]
+              },
+              {
+                "id": "S1_q11",
+                "question": "Bagaimana Yudi mendeskripsikan kemampuannya dalam belajar teknologi baru?",
+                "answers": [
+                  {
+                    "text": "Adaptability and eagerness to learn new technologies",
+                    "answer_start": 320
+                  }
+                ]
+              },
+              {
+                "id": "S1_q12",
+                "question": "Apa pernyataan yang menunjukkan komitmen Yudi dalam karirnya?",
+                "answers": [
+                  {
+                    "text": "commitment to delivering significant contributions as an AI Engineer or Data Scientist",
+                    "answer_start": 360
+                  }
+                ]
+              },
+              {
+                "id": "S1_q13",
+                "question": "Dalam konteks summary, bidang apa yang menjadi fokus Yudi?",
+                "answers": [
+                  {
+                    "text": "Artificial Intelligence",
+                    "answer_start": 180
+                  }
+                ]
+              },
+              {
+                "id": "S1_q14",
+                "question": "Sebutkan salah satu keunggulan yang dimiliki Yudi menurut ringkasan!",
+                "answers": [
+                  {
+                    "text": "strong foundation in machine learning algorithms",
+                    "answer_start": 210
+                  }
+                ]
+              },
+              {
+                "id": "S1_q15",
+                "question": "Apa jenis proyek yang pernah dikerjakan Yudi menurut summary?",
+                "answers": [
+                  {
+                    "text": "AI-related projects",
+                    "answer_start": 290
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CV Section: Education",
+        "paragraphs": [
+          {
+            "context": "EDUCATION\nUniversitas Pendidikan Indonesia 2022 – Present\nUndergraduate in Mechatronics and Artificial Intelligence\nGPA : 3.79/4.00\nRelevant Coursework: Machine Learning, Deep Learning, Computer Vision, Image Processing, Data Structures and Algorithms, Artificial Intelligence Fundamentals, IoT and Embedded Systems.",
+            "qas": [
+              {
+                "id": "S2_q1",
+                "question": "Di universitas mana Yudi sedang menempuh pendidikan?",
+                "answers": [
+                  {
+                    "text": "Universitas Pendidikan Indonesia",
+                    "answer_start": 10
+                  }
+                ]
+              },
+              {
+                "id": "S2_q2",
+                "question": "Kapan Yudi mulai kuliah?",
+                "answers": [
+                  {
+                    "text": "2022 – Present",
+                    "answer_start": 43
+                  }
+                ]
+              },
+              {
+                "id": "S2_q3",
+                "question": "Program studi apa yang diambil Yudi?",
+                "answers": [
+                  {
+                    "text": "Undergraduate in Mechatronics and Artificial Intelligence",
+                    "answer_start": 66
+                  }
+                ]
+              },
+              {
+                "id": "S2_q4",
+                "question": "Berapa nilai GPA Yudi?",
+                "answers": [
+                  {
+                    "text": "3.79/4.00",
+                    "answer_start": 118
+                  }
+                ]
+              },
+              {
+                "id": "S2_q5",
+                "question": "Sebutkan salah satu mata kuliah yang diambil oleh Yudi!",
+                "answers": [
+                  {
+                    "text": "Machine Learning",
+                    "answer_start": 138
+                  }
+                ]
+              },
+              {
+                "id": "S2_q6",
+                "question": "Mata kuliah apa yang mengajarkan dasar-dasar AI menurut CV ini?",
+                "answers": [
+                  {
+                    "text": "Artificial Intelligence Fundamentals",
+                    "answer_start": 190
+                  }
+                ]
+              },
+              {
+                "id": "S2_q7",
+                "question": "Sebutkan mata kuliah yang berkaitan dengan pengolahan gambar!",
+                "answers": [
+                  {
+                    "text": "Computer Vision, Image Processing",
+                    "answer_start": 164
+                  }
+                ]
+              },
+              {
+                "id": "S2_q8",
+                "question": "Apa saja materi yang termasuk dalam coursework Yudi?",
+                "answers": [
+                  {
+                    "text": "Machine Learning, Deep Learning, Computer Vision, Image Processing, Data Structures and Algorithms, Artificial Intelligence Fundamentals, IoT and Embedded Systems",
+                    "answer_start": 138
+                  }
+                ]
+              },
+              {
+                "id": "S2_q9",
+                "question": "Bidang apa yang dipelajari Yudi di perguruan tinggi?",
+                "answers": [
+                  {
+                    "text": "Mechatronics and Artificial Intelligence",
+                    "answer_start": 66
+                  }
+                ]
+              },
+              {
+                "id": "S2_q10",
+                "question": "Di bagian mana GPA dicantumkan dalam bagian Education?",
+                "answers": [
+                  {
+                    "text": "GPA : 3.79/4.00",
+                    "answer_start": 118
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CV Section: Work Experience",
+        "paragraphs": [
+          {
+            "context": "WORK EXPERIENCE\nTeaching Assistant for Advanced Mathematics - UPI Purwakarta (Dec 2024)\n• Designed and prepared materials and practice problems for final exam (UAS) preparation.\n• Assisted in facilitating classroom discussions and supported grading and course organization.\n\nCommunity Service Assistant for Smart Door System Implementation – UPI Purwakarta (Nov 2023 - Juli 2024)\n• Drafted a proposal for a community service project for installing a smart door system in Kutamanah village.\n• Contributed to the development, configuration, and installation of the smart door system.\n• Provided training and technical support to local residents.",
+            "qas": [
+              {
+                "id": "S3_q1",
+                "question": "Apa peran pertama Yudi dalam work experience?",
+                "answers": [
+                  {
+                    "text": "Teaching Assistant for Advanced Mathematics - UPI Purwakarta",
+                    "answer_start": 15
+                  }
+                ]
+              },
+              {
+                "id": "S3_q2",
+                "question": "Kapan Yudi menjabat sebagai Teaching Assistant?",
+                "answers": [
+                  {
+                    "text": "Dec 2024",
+                    "answer_start":  65
+                  }
+                ]
+              },
+              {
+                "id": "S3_q3",
+                "question": "Sebutkan salah satu tugas Yudi sebagai Teaching Assistant!",
+                "answers": [
+                  {
+                    "text": "Designed and prepared materials and practice problems for final exam (UAS) preparation.",
+                    "answer_start":  95
+                  }
+                ]
+              },
+              {
+                "id": "S3_q4",
+                "question": "Apa peran kedua Yudi di bagian Work Experience?",
+                "answers": [
+                  {
+                    "text": "Community Service Assistant for Smart Door System Implementation – UPI Purwakarta",
+                    "answer_start": 190
+                  }
+                ]
+              },
+              {
+                "id": "S3_q5",
+                "question": "Kapan Yudi bekerja sebagai Community Service Assistant?",
+                "answers": [
+                  {
+                    "text": "Nov 2023 - Juli 2024",
+                    "answer_start": 250
+                  }
+                ]
+              },
+              {
+                "id": "S3_q6",
+                "question": "Apa tugas utama Yudi sebagai Community Service Assistant?",
+                "answers": [
+                  {
+                    "text": "Drafted a proposal for a community service project for installing a smart door system in Kutamanah village.",
+                    "answer_start": 290
+                  }
+                ]
+              },
+              {
+                "id": "S3_q7",
+                "question": "Sebutkan salah satu kontribusi Yudi dalam community service!",
+                "answers": [
+                  {
+                    "text": "Contributed to the development, configuration, and installation of the smart door system.",
+                    "answer_start": 360
+                  }
+                ]
+              },
+              {
+                "id": "S3_q8",
+                "question": "Bagaimana Yudi membantu masyarakat melalui pekerjaannya?",
+                "answers": [
+                  {
+                    "text": "Provided training and technical support to local residents.",
+                    "answer_start": 450
+                  }
+                ]
+              },
+              {
+                "id": "S3_q9",
+                "question": "Di institusi mana Yudi menjalani work experience pertamanya?",
+                "answers": [
+                  {
+                    "text": "UPI Purwakarta",
+                    "answer_start": 45
+                  }
+                ]
+              },
+              {
+                "id": "S3_q10",
+                "question": "Sebutkan kegiatan yang dilakukan Yudi untuk mempersiapkan ujian akhir (UAS)!",
+                "answers": [
+                  {
+                    "text": "Designed and prepared materials and practice problems for final exam (UAS) preparation.",
+                    "answer_start": 90
+                  }
+                ]
+              },
+              {
+                "id": "S3_q11",
+                "question": "Apa bentuk dukungan Yudi dalam proses pengajaran sebagai Teaching Assistant?",
+                "answers": [
+                  {
+                    "text": "Assisted in facilitating classroom discussions and supported grading and course organization.",
+                    "answer_start": 140
+                  }
+                ]
+              },
+              {
+                "id": "S3_q12",
+                "question": "Dalam Community Service, di desa mana proyek smart door system dilaksanakan?",
+                "answers": [
+                  {
+                    "text": "Kutamanah village",
+                    "answer_start": 330
+                  }
+                ]
+              },
+              {
+                "id": "S3_q13",
+                "question": "Apa yang dilakukan Yudi untuk mendukung instalasi smart door system?",
+                "answers": [
+                  {
+                    "text": "Contributed to the development, configuration, and installation of the smart door system.",
+                    "answer_start": 360
+                  }
+                ]
+              },
+              {
+                "id": "S3_q14",
+                "question": "Sebutkan peran Yudi yang berhubungan dengan proposal di Work Experience!",
+                "answers": [
+                  {
+                    "text": "Drafted a proposal for a community service project for installing a smart door system in Kutamanah village.",
+                    "answer_start": 290
+                  }
+                ]
+              },
+              {
+                "id": "S3_q15",
+                "question": "Bagaimana Yudi mendukung pengajaran di kelas sebagai Teaching Assistant?",
+                "answers": [
+                  {
+                    "text": "Assisted in facilitating classroom discussions and supported grading and course organization.",
+                    "answer_start": 140
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CV Section: Projects Experience",
+        "paragraphs": [
+          {
+            "context": "PROJECTS EXPERIENCE\n\nPostura (Dec 2024)\n• Developed an IoT system using ESP32-CAM for real-time streaming with OpenCV.\n• Integrated Mediapipe for pose estimation, extracting landmark coordinates to analyze posture.\n• Built two machine learning models for classifying good/bad posture and detecting normal posture, scoliosis, and lordosis.\n• Created a web application using Flask for online posture monitoring.\n\nMelanoma Detection (Dec 2024)\n• Developed an application for detecting and analyzing melanoma types using OpenCV image processing and machine learning.\n• Extracted image features for segmentation, edge detection, asymmetry, and color analysis.\n• Built an inference interface with Streamlit for image upload and melanoma detection.\n\nFire Alarm with Opencv (Dec 2024)\n• Developed a Python-based fire detection system using OpenCV and camera input.\n• Implemented HSV thresholding to detect fire color.\n• Integrated MQTT communication with Mosquitto broker; ESP32 communicated with the broker to trigger a warning light.\n\nKard AI (Nov 2024)\n• Developed Kard AI, a web-based platform for early detection of cardiovascular disease risk using a Random Forest model.\n• Integrated a fine-tuned FLAN-T5 chatbot to educate users on cardiovascular health and risk factors.\n• Deployed the platform for personalized risk assessments and educational content.\n\nMaize Pest Detection (Oct 2024)\n• Developed a YOLOv11-based model for detecting maize pests using a filtered IP102 dataset.\n• Achieved mAP of 84.3%, precision of 87.6%, and recall of 79.4%.\n• Enabled real-time, targeted pest control for sustainable farming.\n\nEmotion Classification (August 2024)\n• Developed an emotion classification model using the FastJobs/Visual Emotional Analysis dataset.\n• Fine-tuned a Google-ViT model, achieving 63.75% accuracy and a loss of 1.0965.\n• The model was downloaded 237 times.\n\nGesture-Controlled Robot (August 2024)\n• Developed a gesture-controlled robotic hand powered by an Arduino microcontroller.\n• Used a servo-thread mechanism to control finger movements.\n• Integrated OpenCV and Mediapipe for real-time hand tracking; angles detected controlled servo motors.",
+            "qas": [
+              {
+                "id": "S4_q1",
+                "question": "Sebutkan nama proyek pertama dalam bagian Projects Experience!",
+                "answers": [
+                  {
+                    "text": "Postura",
+                    "answer_start": 22
+                  }
+                ]
+              },
+              {
+                "id": "S4_q2",
+                "question": "Kapan proyek Postura diselesaikan?",
+                "answers": [
+                  {
+                    "text": "Dec 2024",
+                    "answer_start": 31
+                  }
+                ]
+              },
+              {
+                "id": "S4_q3",
+                "question": "Teknologi apa yang digunakan untuk streaming pada proyek Postura?",
+                "answers": [
+                  {
+                    "text": "ESP32-CAM",
+                    "answer_start": 62
+                  }
+                ]
+              },
+              {
+                "id": "S4_q4",
+                "question": "Framework apa yang digunakan untuk memproses streaming pada Postura?",
+                "answers": [
+                  {
+                    "text": "OpenCV",
+                    "answer_start": 82
+                  }
+                ]
+              },
+              {
+                "id": "S4_q5",
+                "question": "Apa fungsi Mediapipe dalam proyek Postura?",
+                "answers": [
+                  {
+                    "text": "Integrated Mediapipe for pose estimation, extracting landmark coordinates to analyze posture.",
+                    "answer_start": 100
+                  }
+                ]
+              },
+              {
+                "id": "S4_q6",
+                "question": "Berapa jumlah model machine learning yang dibuat pada proyek Postura?",
+                "answers": [
+                  {
+                    "text": "two machine learning models",
+                    "answer_start": 190
+                  }
+                ]
+              },
+              {
+                "id": "S4_q7",
+                "question": "Apa tujuan dari model machine learning pada Postura?",
+                "answers": [
+                  {
+                    "text": "for classifying good/bad posture and detecting normal posture, scoliosis, and lordosis",
+                    "answer_start": 220
+                  }
+                ]
+              },
+              {
+                "id": "S4_q8",
+                "question": "Platform web apa yang dibuat untuk monitoring postur di proyek Postura?",
+                "answers": [
+                  {
+                    "text": "a web application using Flask",
+                    "answer_start": 310
+                  }
+                ]
+              },
+              {
+                "id": "S4_q9",
+                "question": "Apa tujuan utama proyek Melanoma Detection?",
+                "answers": [
+                  {
+                    "text": "detecting and analyzing melanoma types using OpenCV image processing and machine learning",
+                    "answer_start": 380
+                  }
+                ]
+              },
+              {
+                "id": "S4_q10",
+                "question": "Kapan proyek Melanoma Detection dikerjakan?",
+                "answers": [
+                  {
+                    "text": "Dec 2024",
+                    "answer_start": 450
+                  }
+                ]
+              },
+              {
+                "id": "S4_q11",
+                "question": "Sebutkan fitur yang di-ekstrak pada proyek Melanoma Detection!",
+                "answers": [
+                  {
+                    "text": "segmentation, edge detection, asymmetry, and color analysis",
+                    "answer_start": 480
+                  }
+                ]
+              },
+              {
+                "id": "S4_q12",
+                "question": "Interface apa yang digunakan untuk inferensi pada Melanoma Detection?",
+                "answers": [
+                  {
+                    "text": "inference interface with Streamlit",
+                    "answer_start": 540
+                  }
+                ]
+              },
+              {
+                "id": "S4_q13",
+                "question": "Apa nama proyek sistem deteksi kebakaran?",
+                "answers": [
+                  {
+                    "text": "Fire Alarm with Opencv",
+                    "answer_start": 600
+                  }
+                ]
+              },
+              {
+                "id": "S4_q14",
+                "question": "Kapan proyek Fire Alarm dengan Opencv dikerjakan?",
+                "answers": [
+                  {
+                    "text": "Dec 2024",
+                    "answer_start": 620
+                  }
+                ]
+              },
+              {
+                "id": "S4_q15",
+                "question": "Metode apa yang digunakan untuk mendeteksi api pada proyek Fire Alarm?",
+                "answers": [
+                  {
+                    "text": "Implemented HSV thresholding to detect fire color",
+                    "answer_start": 650
+                  }
+                ]
+              },
+              {
+                "id": "S4_q16",
+                "question": "Komponen komunikasi apa yang diintegrasikan dalam proyek Fire Alarm?",
+                "answers": [
+                  {
+                    "text": "Integrated MQTT communication with Mosquitto broker",
+                    "answer_start": 700
+                  }
+                ]
+              },
+              {
+                "id": "S4_q17",
+                "question": "Apa nama proyek yang menggunakan Random Forest model?",
+                "answers": [
+                  {
+                    "text": "Kard AI",
+                    "answer_start": 760
+                  }
+                ]
+              },
+              {
+                "id": "S4_q18",
+                "question": "Kapan proyek Kard AI diselesaikan?",
+                "answers": [
+                  {
+                    "text": "Nov 2024",
+                    "answer_start": 770
+                  }
+                ]
+              },
+              {
+                "id": "S4_q19",
+                "question": "Apa fungsi chatbot yang diintegrasikan dalam proyek Kard AI?",
+                "answers": [
+                  {
+                    "text": "Integrated a fine-tuned FLAN-T5 chatbot to educate users on cardiovascular health and risk factors.",
+                    "answer_start": 800
+                  }
+                ]
+              },
+              {
+                "id": "S4_q20",
+                "question": "Platform apa yang dikembangkan untuk penilaian risiko pada Kard AI?",
+                "answers": [
+                  {
+                    "text": "a web-based platform for early detection of cardiovascular disease risk",
+                    "answer_start": 880
+                  }
+                ]
+              },
+              {
+                "id": "S4_q21",
+                "question": "Apa nama proyek pendeteksi hama pada tanaman jagung?",
+                "answers": [
+                  {
+                    "text": "Maize Pest Detection",
+                    "answer_start": 960
+                  }
+                ]
+              },
+              {
+                "id": "S4_q22",
+                "question": "Kapan proyek Maize Pest Detection dikerjakan?",
+                "answers": [
+                  {
+                    "text": "Oct 2024",
+                    "answer_start": 980
+                  }
+                ]
+              },
+              {
+                "id": "S4_q23",
+                "question": "Model apa yang digunakan pada proyek Maize Pest Detection?",
+                "answers": [
+                  {
+                    "text": "YOLOv11-based model",
+                    "answer_start": 1020
+                  }
+                ]
+              },
+              {
+                "id": "S4_q24",
+                "question": "Sebutkan capaian performa dari proyek Maize Pest Detection!",
+                "answers": [
+                  {
+                    "text": "Achieved mAP of 84.3%, precision of 87.6%, and recall of 79.4%",
+                    "answer_start": 1050
+                  }
+                ]
+              },
+              {
+                "id": "S4_q25",
+                "question": "Apa manfaat yang diberikan oleh proyek Maize Pest Detection?",
+                "answers": [
+                  {
+                    "text": "Enabled real-time, targeted pest control for sustainable farming",
+                    "answer_start": 1120
+                  }
+                ]
+              },
+              {
+                "id": "S4_q26",
+                "question": "Sebutkan nama proyek yang berkaitan dengan analisis emosi!",
+                "answers": [
+                  {
+                    "text": "Emotion Classification",
+                    "answer_start": 1180
+                  }
+                ]
+              },
+              {
+                "id": "S4_q27",
+                "question": "Kapan proyek Emotion Classification dilakukan?",
+                "answers": [
+                  {
+                    "text": "August 2024",
+                    "answer_start": 1200
+                  }
+                ]
+              },
+              {
+                "id": "S4_q28",
+                "question": "Model apa yang di-fine-tune dalam proyek Emotion Classification?",
+                "answers": [
+                  {
+                    "text": "Google-ViT model",
+                    "answer_start": 1250
+                  }
+                ]
+              },
+              {
+                "id": "S4_q29",
+                "question": "Berapa akurasi yang dicapai oleh model pada proyek Emotion Classification?",
+                "answers": [
+                  {
+                    "text": "63.75% accuracy",
+                    "answer_start": 1270
+                  }
+                ]
+              },
+              {
+                "id": "S4_q30",
+                "question": "Apa nama proyek robotik yang dikembangkan Yudi?",
+                "answers": [
+                  {
+                    "text": "Gesture-Controlled Robot",
+                    "answer_start": 1300
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CV Section: Organization & Volunteer Experience",
+        "paragraphs": [
+          {
+            "context": "ORGANIZATION EXPERIENCE\nStaff of Study and Research Department, HIMATRONIKA-AI (March – Nov 2023)\n• Created educational content on Instagram, engaging 300+ followers.\n• Organized a \"Ruang Belajar\" forum for 100+ students preparing for exams.\n• Documented workshop and competition activities for 30 participants.\n\nCOMMITTEE & VOLUNTEER EXPERIENCE\nHead of Logistic Division, METASTRO (Sept - Oct 2023)\n• Led logistics for event equipment and materials.\n• Managed inventory and documentation.\n• Coordinated with divisions for timely delivery of event materials.",
+            "qas": [
+              {
+                "id": "S5_q1",
+                "question": "Di organisasi apa Yudi pernah aktif sebagai staff?",
+                "answers": [
+                  {
+                    "text": "HIMATRONIKA-AI",
+                    "answer_start": 41
+                  }
+                ]
+              },
+              {
+                "id": "S5_q2",
+                "question": "Berapa lama Yudi menjabat di HIMATRONIKA-AI?",
+                "answers": [
+                  {
+                    "text": "March – Nov 2023",
+                    "answer_start": 86
+                  }
+                ]
+              },
+              {
+                "id": "S5_q3",
+                "question": "Apa yang dilakukan Yudi untuk mendukung pendidikan melalui HIMATRONIKA-AI?",
+                "answers": [
+                  {
+                    "text": "Created educational content on Instagram, engaging 300+ followers",
+                    "answer_start": 120
+                  }
+                ]
+              },
+              {
+                "id": "S5_q4",
+                "question": "Sebutkan forum yang diselenggarakan oleh Yudi di HIMATRONIKA-AI!",
+                "answers": [
+                  {
+                    "text": "\"Ruang Belajar\" forum",
+                    "answer_start": 180
+                  }
+                ]
+              },
+              {
+                "id": "S5_q5",
+                "question": "Berapa jumlah mahasiswa yang didukung oleh forum tersebut?",
+                "answers": [
+                  {
+                    "text": "100+ students",
+                    "answer_start": 210
+                  }
+                ]
+              },
+              {
+                "id": "S5_q6",
+                "question": "Apa yang didokumentasikan oleh Yudi di HIMATRONIKA-AI?",
+                "answers": [
+                  {
+                    "text": "workshop and competition activities for 30 participants",
+                    "answer_start": 250
+                  }
+                ]
+              },
+              {
+                "id": "S5_q7",
+                "question": "Apa peran Yudi di METASTRO?",
+                "answers": [
+                  {
+                    "text": "Head of Logistic Division",
+                    "answer_start": 320
+                  }
+                ]
+              },
+              {
+                "id": "S5_q8",
+                "question": "Kapan Yudi menjabat sebagai Head of Logistic Division di METASTRO?",
+                "answers": [
+                  {
+                    "text": "Sept - Oct 2023",
+                    "answer_start": 350
+                  }
+                ]
+              },
+              {
+                "id": "S5_q9",
+                "question": "Sebutkan salah satu tugas Yudi sebagai Head of Logistic Division!",
+                "answers": [
+                  {
+                    "text": "Led logistics for event equipment and materials",
+                    "answer_start": 380
+                  }
+                ]
+              },
+              {
+                "id": "S5_q10",
+                "question": "Apa yang dilakukan Yudi terkait pengelolaan inventaris di METASTRO?",
+                "answers": [
+                  {
+                    "text": "Managed inventory and documentation",
+                    "answer_start": 420
+                  }
+                ]
+              },
+              {
+                "id": "S5_q11",
+                "question": "Bagaimana Yudi memastikan kelancaran logistik pada event?",
+                "answers": [
+                  {
+                    "text": "Coordinated with divisions for timely delivery of event materials",
+                    "answer_start": 460
+                  }
+                ]
+              },
+              {
+                "id": "S5_q12",
+                "question": "Dalam konteks organisasi, apa peran Yudi di HIMATRONIKA-AI?",
+                "answers": [
+                  {
+                    "text": "Staff of Study and Research Department, HIMATRONIKA-AI",
+                    "answer_start": 41
+                  }
+                ]
+              },
+              {
+                "id": "S5_q13",
+                "question": "Sebutkan kegiatan dokumentasi yang dilakukan Yudi!",
+                "answers": [
+                  {
+                    "text": "Documented workshop and competition activities for 30 participants",
+                    "answer_start": 250
+                  }
+                ]
+              },
+              {
+                "id": "S5_q14",
+                "question": "Apa bentuk dukungan Yudi terhadap para mahasiswa di HIMATRONIKA-AI?",
+                "answers": [
+                  {
+                    "text": "Organized a \"Ruang Belajar\" forum for 100+ students preparing for exams",
+                    "answer_start": 180
+                  }
+                ]
+              },
+              {
+                "id": "S5_q15",
+                "question": "Di bagian mana Yudi aktif sebagai volunteer?",
+                "answers": [
+                  {
+                    "text": "METASTRO",
+                    "answer_start": 320
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CV Section: Certification, Skills, and Achievements",
+        "paragraphs": [
+          {
+            "context": "CERTIFICATION\n• Skill Academy – Mastering AI Bootcamp Batch 4 (July – Oct 2024, Credential: REAFFJLY).\n• ID Camp x Dicoding – Machine Learning Developer (Sept 2023 – March 2024, Credential: IDCAMP2023/L1-ML-151).\n\nSKILLS\nSoft Skills: Problem Solving, Communication, Adaptability and Learning Agility, Team-Coordination.\nHard Skills: HTML, CSS, Javascript, Java, Python, OpenCV, Scikit-Learn, Tensorflow, Pytorch, YOLO, Transformer, Mikrocontroller, MQTT, Flask, Streamlit, Github, MySQL.\nLanguages: Indonesian, English.\n\nACHIEVEMENTS\n• Top 73, Ideation Category, PFsains New and Renewable Energy Innovation Competition (August 2023).",
+            "qas": [
+              {
+                "id": "S6_q1",
+                "question": "Sebutkan nama sertifikasi pertama yang diperoleh Yudi!",
+                "answers": [
+                  {
+                    "text": "Skill Academy – Mastering AI Bootcamp Batch 4",
+                    "answer_start": 15
+                  }
+                ]
+              },
+              {
+                "id": "S6_q2",
+                "question": "Kapan sertifikasi dari Skill Academy diperoleh?",
+                "answers": [
+                  {
+                    "text": "July – Oct 2024",
+                    "answer_start": 60
+                  }
+                ]
+              },
+              {
+                "id": "S6_q3",
+                "question": "Apa credential sertifikasi dari Skill Academy?",
+                "answers": [
+                  {
+                    "text": "REAFFJLY",
+                    "answer_start": 95
+                  }
+                ]
+              },
+              {
+                "id": "S6_q4",
+                "question": "Sebutkan nama sertifikasi kedua yang dimiliki Yudi!",
+                "answers": [
+                  {
+                    "text": "ID Camp x Dicoding – Machine Learning Developer",
+                    "answer_start": 125
+                  }
+                ]
+              },
+              {
+                "id": "S6_q5",
+                "question": "Kapan sertifikasi dari ID Camp x Dicoding diikuti oleh Yudi?",
+                "answers": [
+                  {
+                    "text": "Sept 2023 – March 2024",
+                    "answer_start": 180
+                  }
+                ]
+              },
+              {
+                "id": "S6_q6",
+                "question": "Apa credential dari sertifikasi ID Camp x Dicoding?",
+                "answers": [
+                  {
+                    "text": "IDCAMP2023/L1-ML-151",
+                    "answer_start": 220
+                  }
+                ]
+              },
+              {
+                "id": "S6_q7",
+                "question": "Sebutkan soft skills yang dikuasai Yudi!",
+                "answers": [
+                  {
+                    "text": "Problem Solving, Communication, Adaptability and Learning Agility, Team-Coordination",
+                    "answer_start": 260
+                  }
+                ]
+              },
+              {
+                "id": "S6_q8",
+                "question": "Sebutkan beberapa hard skills yang dikuasai Yudi!",
+                "answers": [
+                  {
+                    "text": "HTML, CSS, Javascript, Java, Python, OpenCV, Scikit-Learn, Tensorflow, Pytorch, YOLO, Transformer, Mikrocontroller, MQTT, Flask, Streamlit, Github, MySQL",
+                    "answer_start": 320
+                  }
+                ]
+              },
+              {
+                "id": "S6_q9",
+                "question": "Bahasa apa saja yang dikuasai Yudi?",
+                "answers": [
+                  {
+                    "text": "Indonesian, English",
+                    "answer_start": 420
+                  }
+                ]
+              },
+              {
+                "id": "S6_q10",
+                "question": "Sebutkan pencapaian Yudi dalam kompetisi inovasi!",
+                "answers": [
+                  {
+                    "text": "Top 73, Ideation Category, PFsains New and Renewable Energy Innovation Competition",
+                    "answer_start": 450
+                  }
+                ]
+              },
+              {
+                "id": "S6_q11",
+                "question": "Dalam sertifikasi, apa yang menjadi bukti keahlian Yudi?",
+                "answers": [
+                  {
+                    "text": "Skill Academy – Mastering AI Bootcamp Batch 4 and ID Camp x Dicoding – Machine Learning Developer",
+                    "answer_start": 15
+                  }
+                ]
+              },
+              {
+                "id": "S6_q12",
+                "question": "Sebutkan salah satu bahasa pemrograman yang dikuasai Yudi!",
+                "answers": [
+                  {
+                    "text": "Python",
+                    "answer_start": 340
+                  }
+                ]
+              },
+              {
+                "id": "S6_q13",
+                "question": "Apa yang termasuk dalam hard skills Yudi terkait framework deep learning?",
+                "answers": [
+                  {
+                    "text": "Tensorflow, Pytorch",
+                    "answer_start": 380
+                  }
+                ]
+              },
+              {
+                "id": "S6_q14",
+                "question": "Di bagian achievements, pencapaian apa yang diraih Yudi?",
+                "answers": [
+                  {
+                    "text": "Top 73, Ideation Category, PFsains New and Renewable Energy Innovation Competition",
+                    "answer_start": 450
+                  }
+                ]
+              },
+              {
+                "id": "S6_q15",
+                "question": "Sebutkan keahlian komunikasi yang dimiliki Yudi!",
+                "answers": [
+                  {
+                    "text": "Communication",
+                    "answer_start": 260
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
