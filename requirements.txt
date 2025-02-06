@@ -1,0 +1,7 @@
+langchain-community==0.3.16
+langchain-core==0.3.33
+langchain-groq==0.2.4
+langchain-nomic==0.1.4
+streamlit==1.41.1
+groq==0.18.0
+faiss-cpu==1.10.0
