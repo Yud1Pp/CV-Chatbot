@@ -1,5 +1,4 @@
 from langchain_community.vectorstores import FAISS
-from langchain_ollama import OllamaEmbeddings
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.output_parsers import StrOutputParser
@@ -7,10 +6,6 @@ from langchain_groq import ChatGroq
 from langchain_nomic import NomicEmbeddings
 import streamlit as st
 import groq
-import os
-from dotenv import load_dotenv
-
-load_dotenv()
 
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 NOMIC_API_KEY = st.secrets["NOMIC_API_KEY"]
@@ -179,7 +174,6 @@ if question != "" and question is not None:
         st.markdown(question)
     with st.spinner("Generating response..."):
         related_documents = retrieve_docs(question, index)
-        # answer = answer_question(question, related_documents)
 
     with st.chat_message("assistant"):
         st.write("Yudi: ")
@@ -188,7 +182,7 @@ if question != "" and question is not None:
             st.session_state.message.append(AIMessage(answer))
         except groq.APIStatusError as e:
             if "rate_limit_exceeded" in str(e):
-                st.session_state.message = []  # Reset chat history
+                st.session_state.message = []
                 st.warning("Chat history terlalu panjang, sehingga telah direset. Silakan coba lagi.")
             else:
                 st.error(f"Terjadi error: {e}")
