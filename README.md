@@ -2,6 +2,7 @@
 
 Proyek ini adalah chatbot berbasis AI yang menggunakan **LangChain**, **FAISS**, dan **Groq** untuk membangun sistem tanya jawab berbasis Retrieval-Augmented Generation (RAG). Aplikasi ini dibuat dengan **Streamlit** sebagai antarmuka pengguna.
 Proyek ini juga mendukung penggunaan dokumen pribadi dengan embedding menggunakan Nomic.
+🔗 Coba chatbot sekarang: [Yudi Chatbot](https://yudichatbot.streamlit.app/)
 
 ## 🚀 Fitur Utama
 - **Vector Store dengan FAISS** untuk penyimpanan dan pencarian embedding dokumen.
@@ -104,6 +105,7 @@ Dibuat dengan ❤️ oleh [Yudi Pratama Putra](https://github.com/Yud1Pp)
 
 This project is an AI-based chatbot that utilizes **LangChain**, **FAISS**, and **Groq** to build a Retrieval-Augmented Generation (RAG)-based question-answering system. The application is built using **Streamlit** as the user interface.
 This project also supports personal document usage with embeddings using Nomic.
+🔗 Try the chatbot now: [Yudi Chatbot](https://yudichatbot.streamlit.app/)
 
 ## 🚀 Main Features
 - **Vector Store with FAISS** for document embedding storage and retrieval.
